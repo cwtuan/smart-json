@@ -1,4 +1,4 @@
-# Smart JSON Editor - Prettify / Minify / Verify JSON Tool
+# Smart JSON Editor: IDE-like tool to Prettify / Minify / Verify JSON
 [Smart JSON Editor](https://fe-tool.com/en-us/formatter/json) is a user-friendly JSON editor that facilitates the editing of both JSON and JSON5. However, Smart JSON has more flexible syntax by allowing omitting quotes around keys, multi-line commenting, and trailing commas in arrays and objects. This makes JSON editing process more efficient and productive.
 
 Moreover, Smart JSON Editor is a text editor similar to VS code, allowing users to work on multiple tabbed files simultaneously, rename tabs, drag and drop tabs, and use other [VS code editing techniques](https://code.visualstudio.com/docs/editor/codebasics) such as selecting all occurrences of a selected word. It helps you keep work organized and increases productivity.
@@ -9,8 +9,8 @@ Moreover, Smart JSON Editor is a text editor similar to VS code, allowing users 
 
 
 ## Comma
-- Arrays may have a single trailing comma.
-- Objects may have a single trailing comma.
+- Arrays having a single trailing comma are allowed.
+- Objects having a single trailing comma are allowed.
 - Missing comma in object is allowed.
 
 ```js
@@ -43,7 +43,7 @@ Moreover, Smart JSON Editor is a text editor similar to VS code, allowing users 
 
 
 ## String
-- Strings may be single quoted.
+- Single quoted string is allowd.
 
 ```js
 {
@@ -56,8 +56,8 @@ Moreover, Smart JSON Editor is a text editor similar to VS code, allowing users 
 
 ## Object key
 
-- keys may be an ECMAScript 5.1 [IdentifierName](https://262.ecma-international.org/5.1/#sec-7.6).
-- Object keys can be specified without quotes.
+- keys could be an ECMAScript 5.1 [IdentifierName](https://262.ecma-international.org/5.1/#sec-7.6).
+- keys without quotes are allowed.
 ```js
 {
   "$string": "string", // ECMAScript 5.1 IdentifierName
@@ -68,9 +68,9 @@ Moreover, Smart JSON Editor is a text editor similar to VS code, allowing users 
 
 
 ## Number
-- Numbers may be hexadecimal.
-- Numbers may have a leading or trailing decimal point.
-Numbers may be [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) positive infinity, negative infinity, and NaN.</li>
+- Numbers could be hexadecimal.
+- Numbers could have a leading or trailing decimal point.
+Numbers could be [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) positive infinity, negative infinity, and NaN.</li>
 - Numbers may begin with an explicit plus sign.
 
 
