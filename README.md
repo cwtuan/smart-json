@@ -1,5 +1,9 @@
-# Smart JSON - Prettify / Minify / Verify JSON Tool
-Smart JSON is a superset of JSON and JSON5, which means that any valid JSON data is also valid Smart JSON data. However, Smart JSON allows for more flexible syntax, such as omitting quotes around property names and allowing for trailing commas in arrays and objects. This makes it easier to write and edit JSON.
+# Smart JSON Editor - Prettify / Minify / Verify JSON Tool
+[Smart JSON Editor](https://fe-tool.com/en-us/formatter/json) is a user-friendly JSON editor that facilitates the editing of both JSON and JSON5. However, Smart JSON has more flexible syntax by allowing omitting quotes around keys, multi-line commenting, and trailing commas in arrays and objects. This makes JSON editing process more efficient and productive.
+
+Moreover, Smart JSON Editor is a text editor similar to VS code, allowing users to work on multiple tabbed files simultaneously, rename tabs, drag and drop tabs, and use other [VS code editing techniques](https://code.visualstudio.com/docs/editor/codebasics) such as selecting all occurrences of a selected word. It helps you keep work organized and increases productivity.
+
+**Use Smart JSON for free now: https://fe-tool.com/en-us/formatter/json**
 
 ![smart-json](https://user-images.githubusercontent.com/3455798/226092084-5977ae57-b643-473a-a0bd-b937084b07f7.gif)
 
@@ -79,3 +83,7 @@ Numbers may be [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) positive infin
 }
 ```
 ![image](https://user-images.githubusercontent.com/3455798/226093838-6323c3b6-bd20-4363-a2cb-bd210d3803a2.png)
+
+# Start Now
+- Smart JSON Edtor Online: https://fe-tool.com/en-us/formatter/json
+- Issues or suggestions: https://github.com/cwtuan/smart-json/issues
