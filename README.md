@@ -103,6 +103,5 @@ Key bindings are fully compatible with [Visual Studio Code](https://code.visuals
 <img style="width:400px" src="https://user-images.githubusercontent.com/3455798/226117055-9ae01abf-a72a-4e25-beec-7e7346883eb2.png" />
 
 
-## 3. Start Now
-- Smart JSON Edtor Online: https://json-5.com
-- Issues or suggestions: https://github.com/cwtuan/smart-json/issues
+## 3. Data Privacy
+We can assure you that your input data in [json-5.com](json-5.com) is stored securely in your browser's [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) only, which is not shared with any third-party, ensuring complete privacy and confidentiality.
